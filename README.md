@@ -11,7 +11,7 @@ In this project, we build a neural network model to predict the price of a car g
 6. [Installation and Usage](#installation-and-usage)
 7. [Dependencies](#dependencies)
 8. [License](#license)
-9. [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 This project aims to predict car prices using a neural network model. We employ a dataset from Kaggle, containing various features related to car specifications. The project involves data preprocessing, model training, and evaluation to achieve a high accuracy in price prediction.
@@ -100,9 +100,5 @@ To run this project, follow these steps:
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgements
-- Kaggle for providing the car prices dataset.
-- TensorFlow and Keras for the neural network framework.
 
 Feel free to contribute to this project by submitting issues or pull requests.
